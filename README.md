@@ -3,4 +3,4 @@
 
 ## Table of contents
 
-- [Datasets](./Docs/DATA.md)
+- [Datasets](./Docs/Data.md)
